@@ -1,0 +1,21 @@
+Nome do arquivo: Atlantic_pollination_dataset
+id: Identification of each interaction sampled. The codes are not exclusive, and the same code represents the same interaction but with different deposition of pollen in the animal’s body
+latitude: Latitude in decimal degrees (GCS – WGS84) from the locality where the interaction was observed
+longitude: Longitude in decimal degrees (GCS – WGS84) from the locality where the interaction was observed
+genera_plant: Genus taxonomic classification as it appears in original source	
+genera_plan_ver: Genus taxonomic classification after taxonomic verification
+sp_plant: Specific epithet taxonomic classification as it appears in original source
+author_plant: Species author as it appears in original source
+sp_plant_ver: Specific epithet taxonomic classification after taxonomic verification	
+author_plant_ver: Species author after taxonomic verification	
+subfamily:	
+genera_floralvisitor: Genus taxonomic classification as it appears in original source	
+genera_floralvisitor_ver: Genus taxonomic classification after taxonomic verification	
+sp_floralvisitor: Specific epithet taxonomic classification as it appears in original source	
+author_floralvisitor: Species author as it appears in original source	
+sp_floralvisitor_ver: Specific epithet taxonomic classification after taxonomic verification 	
+author_floralvisitor_ver: Species author after taxonomic verification	
+pollinator_group: Major type of vertebrate	
+bodypolendeposition: Place of pollen deposition on pollinator’s body	
+behaviour: Feeding behavior of nectar-feeding vertebrates on flowers. Legitimate pollinators touched the flower’s reproductive structure with its body. Larcenists visited flowers but did not touch the reproductive structures of the flowers. 	
+relativefrequency: Calculated as the number of visits in a species of plant by a species of nectar-feeding vertebrate by the total number of visits in this species of plant in each latitude and longitude (=community)

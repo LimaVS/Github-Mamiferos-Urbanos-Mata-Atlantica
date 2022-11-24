@@ -1,0 +1,82 @@
+# Script Atlantic_mammal_traits x Limite Mata Atlantica
+
+# Localizar a pasta onde estão os arquivos que serão usados (# Definir diretorio de trabalho)
+
+setwd("C:/Users/User/OneDrive/Documentos/SUGEPE - ESTÁGIO/Atividade_semana6")
+
+getwd()
+
+# Abrir planilha Atlantic_mammal_traits.csv
+
+Atlantic_mammal_traits <- read.csv("Atlantic_mammal_traits_dataset.csv", sep=";", header=T, dec=',', na.strings
+                               = c("NULL","NA",""), as.is=TRUE)
+
+# Visualizar a tabela
+
+View(Atlantic_mammal_traits)
+
+# Sumario das informacoes da tabela
+
+summary(Atlantic_mammal_traits)
+
+# Plotar em um grafico as latitudes e as longitudes da tabela
+
+plot(latitude~longitude, data=Atlantic_mammal_traits)
+
+# Formato espacial sf (Simple Features) para a geometria espacial dos objetos
+
+install.packages("sf", dependences=TRUE)
+
+# Importar a shape do limite da Mata Atlantica (MMA/IBGE)
+
+library(sf)
+
+mataatlantica_mma <- st_read("limite_ma_mma_wgs84.shp")
+
+# Consultar o Sistema de referencia de coordenadas (Coordinate Reference System = CRS)
+st_crs(mataatlantica_mma)
+
+#Visualizar o mapa do limite da Mata Atlantica (MMA/IBGE)
+
+plot(st_geometry(mataatlantica_mma))
+
+# Cruzar os dois objetos de dados para subconjunto e combinar os atributos. Podemos usar st_intersection para sobrepor e combinar os campos de atributo dos dois objetos de dados.
+
+Atlantic_mammal_traits_shp <- subset(Atlantic_mammal_traits, !
+                                   is.na(Atlantic_mammal_traits$latitude))##excluindo NA's dos valores de latitude
+
+View(Atlantic_mammal_traits_shp)
+
+##Apenas conferindo se nao ha nenhum valor de NA na Longitude
+
+teste <- is.na(Atlantic_mammal_traits$longitude)
+
+t <- unique(teste) ##Somente deve aparecer Falso
+# Analise de dados espaciais “terra”
+
+library(terra)
+
+##Para conseguir georreferenciar a tabela nao pode ter dados faltantes na Latitude e Longitude
+
+Atlantic_mammal_traits_shp <- st_as_sf(Atlantic_mammal_traits_shp, coords = c("longitude",
+                                                                      "latitude"), crs = 4326)
+
+plot(st_geometry(Atlantic_mammal_traits_shp))
+
+##Salvando o shapefile de pontos
+
+st_write(Atlantic_mammal_traits_shp, "Atlantic_mammal_traits_pontos.shp")
+
+##Fazendo a intersecao entre os dois shapefiles
+
+shapefile_Atlantic_mammal_traits_Mataatlantica <- 
+  st_intersection(Atlantic_mammal_traits_shp,mataatlantica_mma)
+
+##Salvando o shapefile final
+
+st_write(shapefile_Atlantic_mammal_traits_Mataatlantica,
+         "Atlantic_mammal_traits_Mataatlantica.shp")
+
+View(shapefile_Atlantic_mammal_traits_Mataatlantica)
+
+plot(st_geometry(shapefile_Atlantic_mammal_traits_Mataatlantica))

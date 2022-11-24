@@ -1,0 +1,20 @@
+Nome do arquivo: Atlantic_mammal_traits_dataset
+ID_sp: Identification code for each species 
+ID_register: Species registration 
+group: Taxon
+order: Order of the species
+family: Family of the species 
+genus: Genus of the species 
+binomial: Species name 
+body_mass: Value derived from the mass (weight) in grams 3 
+body_length: Extended dimension of an individual included body and head and measured in centimeters
+tail_length: The dimension of tail measured in centimeters
+forearm: The dimension of forearm measured in millimeters 
+age: Age of the specimens
+sex: Sex of the specimens
+reproductive_stage: Reproductive stage of the specimens
+status: Status of individual when measured
+longitude: Longitude in decimal degrees (GCS - WGS 84)
+latitude Latitude in decimal degrees (GCS - WGS 84) 
+year: Year when the specimen was measured 
+collector_name: Person who made the measurements

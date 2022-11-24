@@ -1,0 +1,82 @@
+# Script Atlantic_polination x Limite Mata Atlantica
+
+# Localizar a pasta onde estão os arquivos que serão usados (# Definir diretorio de trabalho)
+
+setwd("C:/Users/User/OneDrive/Documentos/SUGEPE - ESTÁGIO/Atividade_semana6")
+
+getwd()
+
+# Abrir planilha Atlantic_pollination.csv
+
+Atlantic_pollination <- read.csv("Atlantic_pollination_dataset.csv", sep=";", header=T, dec=',', na.strings
+                               = c("NULL","NA",""), as.is=TRUE)
+
+# Visualizar a tabela
+
+View(Atlantic_pollination)
+# Sumario das informacoes da tabela
+
+summary(Atlantic_pollination)
+
+# Plotar em um grafico as latitudes e as longitudes da tabela
+
+plot(latitude~longitude, data=Atlantic_pollination)
+
+# Formato espacial sf (Simple Features) para a geometria espacial dos objetos
+
+install.packages("sf", dependences=TRUE)
+
+# Importar a shape do limite da Mata Atlantica (MMA/IBGE)
+
+library(sf)
+
+mataatlantica_mma <- st_read("limite_ma_mma_wgs84.shp")
+
+# Consultar o Sistema de referencia de coordenadas (Coordinate Reference System = CRS)
+
+st_crs(mataatlantica_mma)
+
+#Visualizar o mapa do limite da Mata Atlantica (MMA/IBGE)
+
+plot(st_geometry(mataatlantica_mma))
+
+# Cruzar os dois objetos de dados para subconjunto e combinar os atributos. Podemos usar st_intersection para sobrepor e combinar os campos de atributo dos dois objetos de dados.
+ 
+Atlantic_pollination_shp <- subset(Atlantic_pollination, !
+                                   is.na(Atlantic_pollination$latitude))##excluindo NA's dos valores de latitude
+
+View(Atlantic_pollination_shp)
+
+##Apenas conferindo se nao ha nenhum valor de NA na Longitude
+
+teste <- is.na(Atlantic_pollination$longitude) 
+
+t <- unique(teste) ##Somente deve aparecer Falso
+# Analise de dados espaciais “terra”
+
+library(terra)
+
+##Para conseguir georreferenciar a tabela nao pode ter dados faltantes na Latitude e Longitude
+
+Atlantic_pollination_shp <- st_as_sf(Atlantic_pollination_shp, coords = c("longitude",
+                                                                      "latitude"), crs = 4326)
+
+plot(st_geometry(Atlantic_pollination_shp))
+
+##Salvando o shapefile de pontos
+
+st_write(Atlantic_pollination_shp, "Atlantic_pollination_pontos.shp")
+
+##Fazendo a intersecao entre os dois shapefiles
+
+shapefile_Atlantic_pollination_Mataatlantica <-
+  st_intersection(Atlantic_pollination_shp,mataatlantica_mma)
+
+##Salvando o shapefile final
+
+st_write(shapefile_Atlantic_pollination_Mataatlantica,
+         "Atlantic_pollination_Mataatlantica.shp")
+
+View(shapefile_Atlantic_pollination_Mataatlantica)
+
+plot(st_geometry(shapefile_Atlantic_pollination_Mataatlantica))

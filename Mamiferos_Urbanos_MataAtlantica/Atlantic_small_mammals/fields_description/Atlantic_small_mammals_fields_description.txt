@@ -1,0 +1,40 @@
+Nome do arquivo: Atlantic_small_mammals
+ID: Field that link the study site to the complete information table 	
+Reference_number: The reference number which report small mammal communities
+Month_start: Month when the survey started
+Year_start: Year when the survey started
+Month_finish: Month when the survey finished
+Year_finish: Year when the survey finished		
+Total_of_months: Number of months used to sample small mammal
+Sampling_habitat: Habitat location that was sampled in the patch or site
+Sampling_design: Design used to capture small mammal
+Effort: Total traps-type per night used to capture small mammal
+Method: Trap type used to capture small mammal
+Trap_size: Size of traps used to capture small mammal
+Strata_sampling: Trap height for sampling small mammal
+Order: Order taxonomic classification
+Genus: Genus taxonomic classification
+Species_name_on_paper: Species taxonomic classification reported on paper
+Actual_species_name: Species taxonomic classification reviewed by specialist
+Species_origin: If the species is native or introduced in Brazil
+Actual_species_name: Total of individuals captured for every trap type
+Species_origin: If the species is native or introduced in Brazil
+Individuals_captured: Total of individuals captured for every trap type
+Abundance_(ind/trap-nights): Number of individuals captured by trap- night
+Voucher_specimens: Paper related voucher specimens in collection or museum
+Country: Country of the study
+State: State of the study
+Municipality: Municipality of the study
+Study_location:  Specific location of the study
+Latitude: Decimal coordinates	
+Longitude: Decimal coordinates
+Precision: Precision of the given coordinate	
+Size: Forest size (area in hectares)
+Altitude: Altitude (m) above sea level
+Annual_rainfall: Annual precipitation (mm)
+Vegetation_type: Atlantic Forest vegetation type	
+Protect_area: If the study is inside to the protected areas
+Matrix: Predominant vegetation surrounding the forest patch
+Reference: Extended information of the reference
+Publication_year: Year of publication
+Type_of_publication: Type of publication

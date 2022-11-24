@@ -1,0 +1,83 @@
+# Script Atlantic_primates x Limite Mata Atlantica
+
+# Localizar a pasta onde estão os arquivos que serão usados (# Definir diretorio de trabalho)
+
+setwd("C:/Users/User/OneDrive/Documentos/SUGEPE - ESTÁGIO/Atividade_semana6")
+
+getwd()
+
+# Abrir planilha Atlantic_primates.csv
+
+Atlantic_primates <- read.csv("Atlantic_primates_dataset.csv", sep=";", header=T, dec=',', na.strings
+                              = c("NULL","NA",""), as.is=TRUE)
+
+# Visualizar a tabela
+
+View(Atlantic_primates)
+
+# Sumario das informacoes da tabela
+
+summary(Atlantic_primates)
+
+# Plotar em um grafico as latitudes e as longitudes da tabela
+
+plot(Latitude~Longitude, data=Atlantic_primates)
+
+# Formato espacial sf (Simple Features) para a geometria espacial dos objetos
+
+install.packages("sf", dependences=TRUE)
+
+# Importar a shape do limite da Mata Atlantica (MMA/IBGE)
+
+library(sf)
+
+mataatlantica_mma <- st_read("limite_ma_mma_wgs84.shp")
+
+# Consultar o Sistema de referencia de coordenadas (Coordinate Reference System = CRS)
+
+st_crs(mataatlantica_mma)
+
+#Visualizar o mapa do limite da Mata Atlantica (MMA/IBGE)
+
+plot(st_geometry(mataatlantica_mma))
+
+# Cruzar os dois objetos de dados para subconjunto e combinar os atributos. Podemos usar st_intersection para sobrepor e combinar os campos de atributo dos dois objetos de dados.
+
+Atlantic_primates_shp <- subset(Atlantic_primates, !
+                                  is.na(Atlantic_primates$Latitude))##excluindo NA's dos valores de latitude
+
+View(Atlantic_primates_shp)
+
+##Apenas conferindo se nao ha nenhum valor de NA na Longitude
+
+teste <- is.na(Atlantic_primates$Longitude)
+
+t <- unique(teste) ##Somente deve aparecer Falso
+# Analise de dados espaciais “terra”
+
+library(terra)
+
+##Para conseguir georreferenciar a tabela nao pode ter dados faltantes na Latitude e Longitude
+
+Atlantic_primates_shp <- st_as_sf(Atlantic_primates_shp, coords = c("Longitude",
+                                                                    "Latitude"), crs = 4326)
+
+plot(st_geometry(Atlantic_primates_shp))
+
+##Salvando o shapefile de pontos
+
+st_write(Atlantic_primates_shp, "Atlantic_primates_pontos.shp")
+
+##Fazendo a intersecao entre os dois shapefiles
+
+shapefile_Atlantic_primates_Mataatlantica <-
+  st_intersection(Atlantic_primates_shp,mataatlantica_mma)
+
+##Salvando o shapefile final
+
+st_write(shapefile_Atlantic_primates_Mataatlantica,
+         "Atlantic_primates_Mataatlantica.shp")
+
+View(shapefile_Atlantic_primates_Mataatlantica)
+
+plot(st_geometry(shapefile_Atlantic_primates_Mataatlantica))

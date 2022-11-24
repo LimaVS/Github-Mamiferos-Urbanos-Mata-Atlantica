@@ -1,0 +1,282 @@
+id;latitude;longitude;genera_plant;genera_plan_ver;sp_plant;author_plant;sp_plant_ver;author_plant_ver;subfamily;genera_floralvisitor;genera_floralvisitor_ver;sp_floralvisitor;author_floralvisitor;sp_floralvisitor_ver;author_floralvisitor_ver;pollinator_group;bodypolendeposition;behaviour;relativefrequency
+33;-23,33;-44,83;Mucuna;Mucuna;urens;(L.) Medik;urens;(L.) Medik.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;thr;p;1
+33;-23,33;-44,83;Mucuna;Mucuna;urens;(L.) Medik;urens;(L.) Medik.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;bel;p;1
+33;-23,33;-44,83;Mucuna;Mucuna;urens;(L.) Medik;urens;(L.) Medik.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;chi;p;1
+33;-23,33;-44,83;Mucuna;Mucuna;urens;(L.) Medikus;urens;(L.) Medik.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;win;p;1
+61;-23,28;-45,05;Inga;Inga;sessilis;(Vell.) Mart.;sessilis;(Vell.) Mart.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+94;-24,38;-47,08;Vriesea;Vriesea;gigantea;Gaudich.;gigantea;Gaudich.;na;NA;NA;NA;NA;NA;NA;bat;NA;NA;NA
+98;-24,38;-47,08;Vriesea;Vriesea;sp. 1;na;sp. 1;Lindl.;na;NA;NA;NA;NA;NA;NA;bat;NA;NA;NA
+394;-19,1;-39,75;Tetrastylis;Passiflora;ovalis;(Vell. ex M. Roem.) Killip;ovalis;Vell. ex M.Roem;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+395;-19,1;-39,75;Tetrastylis;Passiflora;ovalis;(Vell. ex M. Roem.) Killip;ovalis;Vell. ex M.Roem;Rhinophyllinae;Rhinophylla;Rhinophylla;Rhinophylla pumilio;Peters;Rhinophylla pumilio;Peters, 1865;bat;hea;p;NA
+396;-22,73;-45,58;Abutilon;Callianthe;aff.regnelii;NA;aff. regnellii;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;0.19
+396;-22,73;-45,58;Abutilon;Callianthe;aff.regnelii;NA;aff. regnellii;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;0.19
+401;-23,17;-44,92;Abutilon;Callianthe;regnellii;Miq.;regnellii;(Miq.) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+401;-23,17;-44,92;Abutilon;Callianthe;regnellii;Miq.;regnellii;(Miq.) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+402;-22,73;-45,58;Abutilon;Callianthe;regnellii;Miq.;regnellii;(Miq.) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+402;-22,73;-45,58;Abutilon;Callianthe;regnellii;Miq.;regnellii;(Miq.) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+406;-23,17;-44,92;Abutilon;Callianthe;rufinerve;A. St-Hill;rufinerva;(A. St.-Hill) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;0.19
+406;-23,17;-44,92;Abutilon;Callianthe;rufinerve;A. St-Hill;rufinerva;(A. St.-Hill) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;0.19
+407;-22,73;-45,58;Abutilon;Callianthe;rufinerve;A. St-Hill;rufinerva;(A. St.-Hill) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;0.19
+407;-22,73;-45,58;Abutilon;Callianthe;rufinerve;A. St-Hill;rufinerva;(A. St.-Hill) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;0.19
+785;-9;-35,87;Inga;Inga;ingoides;(Rich.) Willd.;ingoides;(Rich.) Willd.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+793;-9;-35,87;Inga;Inga;striata;Benth.;striata;Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+799;-9;-35,87;Inga;Inga;vera;(D.C.) T.D. Penn.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+831;-22,75;-47,11;Bauhinia;Bauhinia;rufa;(Bong.) Steud;rufa;(Bong.) Steud;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+832;-22,75;-47,11;Bauhinia;Bauhinia;rufa;(Bong.) Steud;rufa;(Bong.) Steud;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+833;-22,75;-47,11;Abutilon;Callianthe;peltatum;K.Schum.;fluviatilis;(Vell.) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+834;-22,75;-47,11;Abutilon;Callianthe;peltatum;K.Schum.;fluviatilis;(Vell.) Donnell;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+835;-22,75;-47,11;Helicteres;Helicteres;ovata;Lam.;ovata;Lam.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+836;-22,75;-47,11;Helicteres;Helicteres;ovata;Lam.;ovata;Lam.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+837;-22,75;-47,11;Hymenaea;Hymenaea;courbaril;L.;courbaril;L.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+838;-22,75;-47,11;Hymenaea;Hymenaea;courbaril;L.;courbaril;L.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+839;-22,75;-47,11;Luehea;Luehea;grandiflora;Mart. & Zucc.;grandiflora;Mart.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+840;-22,75;-47,11;Luehea;Luehea;grandiflora;Mart. & Zucc.;grandiflora;Mart.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+841;-22,75;-47,11;Pseudobombax;Pseudobombax;longiflorum;(Mart.)A.Robyns;longiflorum;(Mart. & Zucc.) A.Robyns;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+842;-22,75;-47,11;Pseudobombax;Pseudobombax;longiflorum;(Mart.)A.Robyns;longiflorum;(Mart. & Zucc.) A.Robyns;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+849;-24,5;-47,25;Bombacopsis;Pachira;calophylla;K.Schum.;calophylla;(K.Schum.) Fern. Alonso;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;NA
+849;-24,5;-47,25;Bombacopsis;Pachira;calophylla;K.Schum.;calophylla;(K.Schum.) Fern. Alonso;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+849;-24,5;-47,25;Bombacopsis;Pachira;calophylla;K.Schum.;calophylla;(K.Schum.) Fern. Alonso;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;NA
+850;-24,5;-47,25;Bombacopsis;Pachira;calophylla;K.Schum.;calophylla;(K.Schum.) Fern. Alonso;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;bel;p;NA
+850;-24,5;-47,25;Bombacopsis;Pachira;calophylla;K.Schum.;calophylla;(K.Schum.) Fern. Alonso;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;thr;p;NA
+850;-24,5;-47,25;Bombacopsis;Pachira;calophylla;K.Schum.;calophylla;(K.Schum.) Fern. Alonso;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;win;p;NA
+857;-24,5;-47,25;Pseudobombax;Pseudobombax;grandiflorum;Cav.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;NA
+857;-24,5;-47,25;Pseudobombax;Pseudobombax;grandiflorum;Cav.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+857;-24,5;-47,25;Pseudobombax;Pseudobombax;grandiflorum;Cav.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;NA
+858;-24,5;-47,25;Pseudobombax;Pseudobombax;grandiflorum;Cav.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;bel;p;NA
+858;-24,5;-47,25;Pseudobombax;Pseudobombax;grandiflorum;Cav.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;thr;p;NA
+858;-24,5;-47,25;Pseudobombax;Pseudobombax;grandiflorum;Cav.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;win;p;NA
+1048;-18,66;-40,58;Encholirium;Encholirium;horridum;L.B.Sm.;horridum;L.B.Sm.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;0.07
+1086;-25,44;-48,92;Vriesea;Vriesea;hoehneana;L.B. Smith;hoehneana*;L.B.Sm.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;0.25
+1087;-25,44;-48,92;Vriesea;Vriesea;hoehneana;L.B. Smith;hoehneana*;L.B.Sm.;Stenodermatinae;Pygoderma;Pygoderma;Pygoderma bilabiatum;Wagner;Pygoderma bilabiatum;(Wagner, 1843);bat;thr;p;0.25
+1087;-25,44;-48,92;Vriesea;Vriesea;hoehneana;L.B. Smith;hoehneana;L.B.Sm.;Stenodermatinae;Pygoderma;Pygoderma;Pygoderma bilabiatum;Wagner;Pygoderma bilabiatum;(Wagner, 1843);bat;win;p;0.25
+1088;-25,44;-48,92;Vriesea;Vriesea;platynema;Gaudichaud;platynema;Gaudich.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;0.07
+1089;-25,44;-48,92;Vriesea;Vriesea;platynema;Gaudichaud;platynema;Gaudich.;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;thr;p;0.07
+1092;-25,44;-48,92;Vriesea;Vriesea;platynema;Gaudichaud;platynema;Gaudich.;Stenodermatinae;Pygoderma;Pygoderma;Pygoderma bilabiatum;Wagner;Pygoderma bilabiatum;(Wagner, 1843);bat;thr;p;0.07
+1092;-25,44;-48,92;Vriesea;Vriesea;platynema;Gaudichaud;platynema;Gaudich.;Stenodermatinae;Pygoderma;Pygoderma;Pygoderma bilabiatum;Wagner;Pygoderma bilabiatum;(Wagner, 1843);bat;win;p;0.07
+1194;-6,97;-34,83;Pilosocereus;Pilosocereus;catingigola subsp. salvadorensis;(Werderm.) Zappi;catingigola subsp. salvadorensis;(Werderm.) Zappi;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;bel;p;NA
+1194;-6,97;-34,83;Pilosocereus;Pilosocereus;catingigola subsp. salvadorensis;(Werderm.) Zappi;catingigola subsp. salvadorensis;(Werderm.) Zappi;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+1195;-23,16;-44,91;Callianthe;Callianthe;rufinerva;A. St.-Hil. (Donnel);rufinerva;(A. St.-Hill) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;E. Geoffroy;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;0.22
+1266;-7,93;-34,87;Irlbachia;Chelonanthus;alata;(Aubl.) Maas;alatus;(Aubl.) Pulle;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;thr;p;NA
+1269;-7,93;-34,87;Inga;Inga;sp. 2;na;sp. 2;Mill.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+1273;-8,01;-34,95;Irlbachia;Chelonanthus;alata;(Aubl.) Maas;alatus;(Aubl.) Pulle;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;chi;p;NA
+1352;-21,73;-43,38;Billbergia;Billbergia;horrida;Regel;horrida;Regel;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+1354;-23,22;-44,72;Vriesea;Alcantarea;regina;(Vell.) Beer.;regina;(Vell.) Beer;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;NA;NA
+1355;-23,22;-44,72;Vriesea;Alcantarea;regina;(Vell.) Beer.;regina;(Vell.) Beer;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;NA;NA;NA
+1356;-23,22;-44,72;Vriesea;Alcantarea;regina;(Vell.) Beer.;regina;(Vell.) Beer;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;NA;NA;NA
+1357;-23,22;-44,72;Vriesea;Alcantarea;regina;(Vell.) Beer.;regina;(Vell.) Beer;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+1379;-22,42;-43,19;Vriesea;Vriesea;atra;Mez.;atra;Mez;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;NA;NA
+1382;-22,38;-42,15;Vriesea;Alcantarea;imperialis;Carrière;imperialis;(Carrière) Harms;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;NA;NA
+1383;-22,38;-42,15;Vriesea;Alcantarea;imperialis;Carrière;imperialis;(Carrière) Harms;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;NA;NA;NA
+1857;-19,42;-40,05;Bauhinia;Bauhinia;sp. 2;na;sp. 2;L.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+1858;-19,3;-40,32;Bauhinia;Bauhinia;sp. 3;na;sp. 3;L.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+1868;-20,33;-40,33;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Rob.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;bel;p;NA
+1892;-8,81;-36,95;Parkia;Parkia;pendula;na;pendula;(Willd.) Walp.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;l;0.04
+1893;-8,81;-36,95;Parkia;Parkia;pendula;na;pendula;(Willd.) Walp.;Phyllostominae;Phyllostomus;Phyllostomus;Phyllostomus discolor;Wagner;Phyllostomus discolor;(Wagner, 1843);bat;NA;p;0.99
+1894;-8,81;-36,95;Parkia;Parkia;pendula;na;pendula;(Willd.) Walp.;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;NA;p;0.07
+2114;-21,83;-44,86;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;che;p;NA
+2114;-21,83;-44,86;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+2117;-19,95;-40,51;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;che;p;NA
+2117;-19,95;-40,51;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+2118;-19,95;-40,51;Sinningia;Sinningia;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;NA
+2118;-19,95;-40,51;Sinningia;Sinningia;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;NA
+2119;-19,95;-40,51;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;NA
+2119;-19,95;-40,51;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;NA
+2125;-19,95;-41,52;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;NA
+2125;-19,95;-41,52;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;NA
+2126;-19,95;-41,52;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;chi;p;NA
+2126;-19,95;-41,52;Paliavana;Paliavana;prasinata;(Ker-Gawler) Benth.;prasinata;(Ker-Gawler) Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+2127;-19,95;-41,52;Sinningia;Sinningia;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;1
+2127;-19,95;-41,52;Sinningia;Sinningia;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;brasiliensis;(Regel & Schmidt) Wiehler and Chautems;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;1
+2237;-22,25;-47,83;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+2238;-22,25;-47,83;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;NA;NA;NA
+2239;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Carolliinae;Carollia;Carollia;Carollia perspicillata;Miller;Carollia perspicillata;(Linnaeus, 1758);bat;ros;p;NA
+2240;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+2241;-19,26;-43,6;Bauhinia;Bauhinia;rufa;(Bong.) Steud;rufa;(Bong.) Steud;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;NA;NA
+2242;-19,26;-43,6;Bauhinia;Bauhinia;rufa;(Bong.) Steud;rufa;(Bong.) Steud;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;NA;NA;NA
+2243;-19,26;-43,6;Musa;Musa;acuminata;Colla;acuminata;Colla;Carolliinae;Carollia;Carollia;Carollia perspicillata;Miller;Carollia perspicillata;(Linnaeus, 1758);bat;NA;l;NA
+2244;-19,26;-43,6;Musa;Musa;acuminata;Colla;acuminata;Colla;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+2245;-23;-47;Bauhinia;Bauhinia;cf. rufa;NA;cf. rufa;NA;Phyllostominae;Phyllostomus;Phyllostomus;Phyllostomus discolor;Wagner;Phyllostomus discolor;(Wagner, 1843);bat;ros;l;1
+2246;-23;-47;Bauhinia;Bauhinia;sp. 4;L.;sp. 4;L.;Phyllostominae;Phyllostomus;Phyllostomus;Phyllostomus discolor;Wagner;Phyllostomus discolor;(Wagner, 1843);bat;ros;l;1
+2247;-23;-47;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Phyllostominae;Phyllostomus;Phyllostomus;Phyllostomus discolor;Wagner;Phyllostomus discolor;(Wagner, 1843);bat;ros;l;1
+2248;-23,5;-45,1;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Carolliinae;Carollia;Carollia;Carollia perspicillata;Miller;Carollia perspicillata;(Linnaeus, 1758);bat;hea;p;NA
+2249;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;bac;p;NA
+2249;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;NA
+2249;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;NA
+2249;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;NA
+2250;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+2251;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;bac;p;NA
+2251;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;bel;p;NA
+2251;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+2251;-23,4;-45,1;Marcgravia;Marcgravia;myriostigma;Triana et Planch;comosa;C.Presl;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;win;p;NA
+2252;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Anoura;Anoura;Anoura caudifer;Gray;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;0.5
+2252;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Anoura;Anoura;Anoura caudifer;Gray;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;0.5
+2252;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Anoura;Anoura;Anoura caudifer;Gray;Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;0.5
+2253;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Carolliinae;Carollia;Carollia;Carollia perspicillata;Miller;Carollia perspicillata;(Linnaeus, 1758);bat;NA;NA;NA
+2254;-23,5;-45,11;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;NA;0.5
+2256;-22,82;-47,1;Helicteres;Helicteres;ovata;Lam.;ovata;Lam.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;win;p;NA
+2268;-23,5;-45,11;Dyssochroma;Combretum;fruticosum;na;fruticosum;(Loefl.) Stuntz;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;bel;p;NA
+2268;-23,5;-45,11;Dyssochroma;Combretum;fruticosum;na;fruticosum;(Loefl.) Stuntz;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;uro;p;NA
+2268;-23,5;-45,11;Dyssochroma;Combretum;fruticosum;na;fruticosum;(Loefl.) Stuntz;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;winve;p;NA
+2269;-23,34;-45,21;Hillia;Hillia;illustris;na;illustris;(Vell.) K. Schum;Lonchophyllinae;Lonchophylla;Lonchophylla;Lonchophylla peracchii;NA;Lonchophylla peracchii;Dias, Esbérard & Moratelli, 2013;bat;chi;p;NA
+2270;-23,34;-45,21;Passiflora;Passiflora;ovalis;na;ovalis;Vell. ex M.Roem;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;NA;Anoura geoffroyi;Gray, 1838;bat;hea;p;NA
+2306;-22,49;-47,07;Abutilon;Callianthe;peltatum;na;fluviatilis;(Vell.) Donnell;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;NA;Glossophaga soricina;(Pallas, 1766);bat;chi;p;NA
+2329;-23,4;-45,1;Abutilon;Callianthe;aff.regnelii;NA;aff. regnellii;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;NA;0.6
+2329;-23,4;-45,1;Abutilon;Callianthe;aff.regnelii;NA;aff. regnellii;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;NA;0.6
+2331;-22,73;-45,58;Siphocampylus;Siphocampylus;sulfureos;E. Wimm.;sulfureos;E. Wimm.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;NA;0.23
+2331;-22,73;-45,58;Siphocampylus;Siphocampylus;sulfureos;E. Wimm.;sulfureos;E. Wimm.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;NA;0.23
+2335;-22,82;-47,1;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;NA;NA;NA
+2336;-23,56;-45,36;Vriesea;Vriesea;bituminosa;Wawra;bituminosa;Wawra;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+2337;-23,56;-45,36;Vriesea;Vriesea;longiscapa;Ule;longiscapa;Ule;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+2338;-23,56;-45,36;Vriesea;Vriesea;longiscapa;Ule;longiscapa;Ule;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;ros;p;NA
+2339;-23,4;-45,1;Vriesea;Vriesea;gigantea;Gaudich.;gigantea;Gaudich.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+2340;-23,17;-44,92;Vriesea;Vriesea;longicaulis;(Bak.) Mez;longicaulis;(Baker) Mez;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+2341;-22,73;-45,58;Vriesea;Vriesea;aff. bituminosa;NA;aff. bituminosa;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+2342;-22,73;-45,58;Vriesea;Vriesea;sazimae;Leme;sazimae;Leme;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+2434;-23,56;-45,36;Eriotheca;Eriotheca;pentaphylla;(Vell. & K. Schum.) A. Robyns;pentaphylla;(Vell. & K. Schum.) A. Robyns;Glossophaginae;NA;NA;sp. 3;NA;sp. 3;NA;bat;sho;p;NA
+2434;-23,56;-45,36;Eriotheca;Eriotheca;pentaphylla;(Vell. & K. Schum.) A. Robyns;pentaphylla;(Vell. & K. Schum.) A. Robyns;Glossophaginae;NA;NA;sp. 3;NA;sp. 3;NA;bat;win;p;NA
+2435;-23,56;-45,36;Eriotheca;Eriotheca;pentaphylla;(Vell. & K. Schum.) A. Robyns;pentaphylla;(Vell. & K. Schum.) A. Robyns;Glossophaginae;NA;NA;sp. 3;NA;sp. 3;NA;bat;che;p;NA
+2435;-23,56;-45,36;Eriotheca;Eriotheca;pentaphylla;(Vell. & K. Schum.) A. Robyns;pentaphylla;(Vell. & K. Schum.) A. Robyns;Glossophaginae;NA;NA;sp. 3;NA;sp. 3;NA;bat;thr;p;NA
+2436;-23,56;-45,36;Hillia;Hillia;illustris;(Vell.) K. Schum;illustris;(Vell.) K. Schum;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;NA
+2436;-23,56;-45,36;Hillia;Hillia;illustris;(Vell.) K. Schum;illustris;(Vell.) K. Schum;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+2437;-23,56;-45,36;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;na;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;É. Geoffroy Saint-Hilaire;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;bel;p;NA
+2437;-23,56;-45,36;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;na;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;É. Geoffroy Saint-Hilaire;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;che;p;NA
+2437;-23,56;-45,36;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;na;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;É. Geoffroy Saint-Hilaire;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;sho;p;NA
+2437;-23,56;-45,36;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;na;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;É. Geoffroy Saint-Hilaire;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;win;p;NA
+2438;-23,56;-45,36;Marcgravia;Marcgravia;aff. polyantha;NA;aff. polyantha;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;NA
+2438;-23,56;-45,36;Marcgravia;Marcgravia;aff. polyantha;NA;aff. polyantha;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;NA
+2438;-23,56;-45,36;Marcgravia;Marcgravia;aff. polyantha;NA;aff. polyantha;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;lim;p;NA
+2438;-23,56;-45,36;Marcgravia;Marcgravia;aff. polyantha;NA;aff. polyantha;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;NA
+2439;-23,56;-45,36;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;NA
+2439;-23,56;-45,36;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;sho;p;NA
+2439;-23,56;-45,36;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;NA
+2440;-23,56;-45,36;Mucuna;Mucuna;urens;(L.) Medik;urens;(L.) Medik.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;NA
+2440;-23,56;-45,36;Mucuna;Mucuna;urens;(L.) Medik;urens;(L.) Medik.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;NA
+2441;-23,56;-45,36;Mucuna;Mucuna;urens;(L.) Medik;urens;(L.) Medik.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;bel;p;NA
+2441;-23,56;-45,36;Mucuna;Mucuna;urens;(L.) Medik;urens;(L.) Medik.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;che;p;NA
+2442;-23,56;-45,36;Tetrastylis;Passiflora;ovalis;(Vell. Ex M. Roem.) Killip;ovalis;Vell. ex M.Roem;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;NA
+2442;-23,56;-45,36;Tetrastylis;Passiflora;ovalis;(Vell. Ex M. Roem.) Killip;ovalis;Vell. ex M.Roem;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;sho;p;NA
+2443;-23,56;-45,36;Tetrastylis;Passiflora;ovalis;(Vell. Ex M. Roem.) Killip;ovalis;Vell. ex M.Roem;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;hea;p;NA
+2443;-23,56;-45,36;Tetrastylis;Passiflora;ovalis;(Vell. Ex M. Roem.) Killip;ovalis;Vell. ex M.Roem;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;sho;p;NA
+2444;-23,56;-45,36;Vriesea;Vriesea;aff. bituminosa;NA;aff. bituminosa;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;NA
+2444;-23,56;-45,36;Vriesea;Vriesea;aff. bituminosa;NA;aff. bituminosa;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+2445;-23,56;-45,36;Vriesea;Vriesea;gigantea;Gaudich;gigantea;Gaudich.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;p;NA
+2445;-23,56;-45,36;Vriesea;Vriesea;gigantea;Gaudich;gigantea;Gaudich.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+2446;-23,56;-45,36;Vriesea;Vriesea;longiscapa;Ule;longiscapa;Ule;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;NA
+2446;-23,56;-45,36;Vriesea;Vriesea;longiscapa;Ule;longiscapa;Ule;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+2447;-22,73;-45,58;Abutilon;Callianthe;aff.regnelii;NA;aff. regnellii;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;NA
+2447;-22,73;-45,58;Abutilon;Callianthe;aff.regnelii;NA;aff. regnellii;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+2448;-22,73;-45,58;Lafoensia;Lafoensia;aff. replicata;NA;aff. vandelliana;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;NA
+2448;-22,73;-45,58;Lafoensia;Lafoensia;aff. replicata;NA;aff. vandelliana;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;NA
+2448;-22,73;-45,58;Lafoensia;Lafoensia;aff. replicata;NA;aff. vandelliana;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;sho;p;NA
+2448;-22,73;-45,58;Lafoensia;Lafoensia;aff. replicata;NA;aff. vandelliana;NA;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;NA
+2449;-22,73;-45,58;Siphocampylus;Siphocampylus;sulfureos;E. Wimm.;sulfureos;E. Wimm.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;0.23
+2450;-22,73;-45,58;Vriesea;Vriesea;bituminosa;Wawra;bituminosa;Wawra;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;NA
+2450;-22,73;-45,58;Vriesea;Vriesea;bituminosa;Wawra;bituminosa;Wawra;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+2451;-22,73;-45,58;Vriesea;Vriesea;sazimae;Leme;sazimae;Leme;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;chi;p;NA
+2451;-22,73;-45,58;Vriesea;Vriesea;sazimae;Leme;sazimae;Leme;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;thr;p;NA
+2452;-22,73;-45,58;Dyssochroma;Dyssochroma;viridiflorum;(Sims) Miers;viridiflorum;(Sims) Miers;Glossophaginae;NA;NA;sp. 4;NA;sp. 4;NA;bat;bel;p;NA
+2452;-22,73;-45,58;Dyssochroma;Dyssochroma;viridiflorum;(Sims) Miers;viridiflorum;(Sims) Miers;Glossophaginae;NA;NA;sp. 4;NA;sp. 4;NA;bat;che;p;NA
+2452;-22,73;-45,58;Dyssochroma;Dyssochroma;viridiflorum;(Sims) Miers;viridiflorum;(Sims) Miers;Glossophaginae;NA;NA;sp. 4;NA;sp. 4;NA;bat;win;p;NA
+2453;-23,35;-48,77;Dyssochroma;Dyssochroma;viridiflorum;(Sims) Miers;viridiflorum;(Sims) Miers;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;ros;p;1
+2477;-23,35;-48,77;Hillia;Hillia;illustris;K.Schum.;illustris;(Vell.) K. Schum;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;chi;p;1
+2477;-23,35;-48,77;Hillia;Hillia;illustris;K.Schum.;illustris;(Vell.) K. Schum;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;thr;p;1
+2478;-23,35;-48,77;Inga;Inga;edulis;Mart.;edulis;Mart.;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;(Offers, 1818);Artibeus lituratus;(Olfers, 1818);bat;chi;p;0.5
+2478;-23,35;-48,77;Inga;Inga;edulis;Mart.;edulis;Mart.;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;(Offers, 1818);Artibeus lituratus;(Olfers, 1818);bat;ros;p;0.5
+2478;-23,35;-48,77;Inga;Inga;edulis;Mart.;edulis;Mart.;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;(Offers, 1818);Artibeus lituratus;(Olfers, 1818);bat;sho;p;0.5
+2479;-23,35;-48,77;Inga;Inga;edulis;Mart.;edulis;Mart.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;chi;p;0.5
+2479;-23,35;-48,77;Inga;Inga;edulis;Mart.;edulis;Mart.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;ros;p;0.5
+2479;-23,35;-48,77;Inga;Inga;edulis;Mart.;edulis;Mart.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;sho;p;0.5
+2480;-23,35;-48,77;Inga;Inga;marginata;Willd.;marginata;Willd.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;chi;p;1
+2480;-23,35;-48,77;Inga;Inga;marginata;Willd.;marginata;Willd.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;ros;p;1
+2481;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;0.06
+2481;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;0.06
+2481;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;0.06
+2482;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;bel;p;0.06
+2482;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;che;p;0.06
+2482;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;win;p;0.06
+2483;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;bel;p;0.88
+2483;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;che;p;0.88
+2483;-23,35;-48,77;Inga;Inga;affinis;DC.;vera subsp. affinis;(DC.) T.D.Penn.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;win;p;0.88
+2484;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;0.33
+2484;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;che;p;0.33
+2484;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;sho;p;0.33
+2484;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;Anoura;Anoura;Anoura caudifer;(E. Geoffroy, 1818);Anoura caudifer;(É. Geoffroy, 1818);bat;win;p;0.33
+2485;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;bel;p;0.67
+2485;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;chi;p;0.67
+2485;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;sho;p;0.67
+2485;-23,35;-48,77;Marcgravia;Marcgravia;polyantha;Delpino;polyantha;Delpino;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;win;p;0.67
+2486;-23,35;-48,77;Mucuna;Mucuna;urens;(L.) Medik.;urens;(L.) Medik.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;bel;p;1
+2486;-23,35;-48,77;Mucuna;Mucuna;urens;(L.) Medik.;urens;(L.) Medik.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;che;p;1
+2486;-23,35;-48,77;Mucuna;Mucuna;urens;(L.) Medik.;urens;(L.) Medik.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;ros;p;1
+2487;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;bel;p;0.67
+2487;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;che;p;0.67
+2487;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;sho;p;0.67
+2487;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;win;p;0.67
+2488;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus recifinus;(Thomas, 1901);Platyrrhinus recifinus;(Thomas, 1901);bat;bel;p;0.33
+2488;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus recifinus;(Thomas, 1901);Platyrrhinus recifinus;(Thomas, 1901);bat;che;p;0.33
+2488;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus recifinus;(Thomas, 1901);Platyrrhinus recifinus;(Thomas, 1901);bat;sho;p;0.33
+2488;-23,35;-48,77;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Robyns;grandiflorum;(Cav.) A. Robyns;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus recifinus;(Thomas, 1901);Platyrrhinus recifinus;(Thomas, 1901);bat;win;p;0.33
+2489;-23,35;-48,77;Vriesea;Vriesea;platynema;Gaudich.;platynema;Gaudich.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;chi;p;1
+2489;-23,35;-48,77;Vriesea;Vriesea;platynema;Gaudich.;platynema;Gaudich.;Glossophaginae;NA;NA;sp. 1;NA;sp. 1;NA;bat;thr;p;1
+2493;-22,75;-43,68;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Rob.;grandiflorum;(Cav.) A. Robyns;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;NA;p;NA
+2494;-22,75;-43,68;Pseudobombax;Pseudobombax;grandiflorum;(Cav.) A. Rob.;grandiflorum;(Cav.) A. Robyns;Phyllostominae;Phyllostomus;Phyllostomus;Phyllostomus hastatus;Pallas;Phyllostomus hastatus;(Pallas, 1767);bat;NA;p;NA
+2495;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;ros;p;NA
+2496;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;bac;p;NA
+2496;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;che;p;NA
+2496;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;win;p;NA
+2497;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Phyllostominae;Phyllostomus;Phyllostomus;Phyllostomus hastatus;Pallas;Phyllostomus hastatus;(Pallas, 1767);bat;NA;p;NA
+2498;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;che;p;NA
+2498;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;hea;p;NA
+2498;-22,75;-43,68;Lafoensia;Lafoensia;glyptocarpa;Koehne;glyptocarpa;Koehne;Stenodermatinae;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;ros;p;NA
+2509;-22,75;-43,68;Bauhinia;Bauhinia;purpurea;L.;purpurea;Wall.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;NA;l;NA
+2510;-22,75;-43,68;Chorisia;Ceiba;speciosa;St. Hill.;speciosa;(A. St.-Hil.) Ravenna;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+2511;-22,75;-43,68;Kigelia;Kigelia;africana;Benth.;africana;(Lam.) Benth.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+2642;-22,41;-42,74;Musa;Musa;paradisiaca;L.;paradisiaca;L.;Lonchophyllinae;Lonchophylla;Lonchophylla;Lonchophylla peracchii;Dias, Esbérard & Moratelli, 2013;Lonchophylla peracchii;Dias, Esbérard & Moratelli, 2013;bat;NA;NA;NA
+2718;-23,35;-48,77;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;p;NA
+2719;-23,35;-48,77;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Carolliinae;Carollia;Carollia;Carollia perspicillata;Linnaeus;Carollia perspicillata;(Linnaeus, 1758);bat;hea;p;NA
+2720;-23,35;-48,77;Passiflora;Passiflora;mucronata;Lam.;mucronata;Lam.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;hea;p;NA
+2721;-20,58;-44,83;Passiflora;Passiflora;galbana;Mast.;silvestris;Vell.;Glossophaginae;NA;NA;sp. 2;NA;sp. 2;NA;bat;hea;p;NA
+2732;-22,92;-43,32;Dyssochroma;Dyssochroma;viridiflora;(Sims) Miers;viridiflorum;(Sims) Miers;Glossophaginae;Anoura;Anoura;Anoura caudifer;Gray;Anoura caudifer;(É. Geoffroy, 1818);bat;bel;p;NA
+2733;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;bel;p;NA
+2733;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;che;p;NA
+2733;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;ros;p;NA
+2733;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Artibeus;Artibeus;Artibeus lituratus;Offers;Artibeus lituratus;(Olfers, 1818);bat;win;p;NA
+2736;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;Pallas;Glossophaga soricina;(Pallas, 1766);bat;ros;p;NA
+2737;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;(Platyrrhinus)Vampyrops;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;bel;p;NA
+2737;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;(Platyrrhinus)Vampyrops;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;che;p;NA
+2737;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;(Platyrrhinus)Vampyrops;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;ros;p;NA
+2737;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;(Platyrrhinus)Vampyrops;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;win;p;NA
+2738;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Sturnira;Sturnira;Sturnira lilium;E. Geoffroy;Sturnira lilium;(É. Geoffroy, 1810);bat;bel;p;NA
+2738;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Sturnira;Sturnira;Sturnira lilium;E. Geoffroy;Sturnira lilium;(É. Geoffroy, 1810);bat;che;p;NA
+2738;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Sturnira;Sturnira;Sturnira lilium;E. Geoffroy;Sturnira lilium;(É. Geoffroy, 1810);bat;ros;p;NA
+2738;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Stenodermatinae;Sturnira;Sturnira;Sturnira lilium;E. Geoffroy;Sturnira lilium;(É. Geoffroy, 1810);bat;win;p;NA
+2953;-22,75;-45,51;Inga;Inga;sessilis;(Vell.) Mart.;sessilis;(Vell.) Mart.;Glossophaginae;Lonchoglossa;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;hea;NA;NA
+2953;-22,75;-45,51;Inga;Inga;sessilis;(Vell.) Mart.;sessilis;(Vell.) Mart.;Glossophaginae;Lonchoglossa;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;ros;NA;NA
+2961;-22,95;-43,16;Pitcairnia;Pitcairnia;albiflos;Herb.;albiflos;Herb.;Lonchophyllinae;Lonchophylla;Lonchophylla;Lonchophylla cf. bokermanni;Sazima, Vizotto & Taddei;Lonchophylla cf. bokermanni;NA;bat;NA;NA;NA
+2962;-22,95;-43,16;Pitcairnia;Pitcairnia;albiflos;Lodd.;staminea;Lodd.;Glossophaginae;Glossophaga;Glossophaga;Glossophaga soricina;(Pallas, 1766);Glossophaga soricina;(Pallas, 1766);bat;NA;NA;NA
+3065;-22,45;-44,61;Abutilon;Callianthe;bedfordianum;(Hook.) A.St.-Hil. & Naudin;bedfordiana;(Hook.) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+3066;-22,45;-44,61;Abutilon;Callianthe;bedfordianum;(Hook.) A.St.-Hil. & Naudin;bedfordiana;(Hook.) Donnell;Glossophaginae;Anoura;Anoura;Anoura geoffroyi;Gray;Anoura geoffroyi;Gray, 1838;bat;NA;p;NA
+3101;-22,45;-44,61;Vriesea;Vriesea;longicaulis;(Baker) Mez.;longicaulis;(Baker) Mez;Glossophaginae;Anoura;Anoura;Anoura caudifer;É Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;p;NA
+3119;-22,38;-44,66;Callianthe;Callianthe;bedfordiana;(Hook.) Donnel;bedfordiana;(Hook.) Donnell;Glossophaginae;Anoura;Anoura;Anoura caudifer;É. Geoffroy Saint-Hilaire;Anoura caudifer;(É. Geoffroy, 1818);bat;NA;NA;NA
+3120;-13;-38,3;Pachira;Pachira;aquatica;Aubl.;aquatica;Aubl.;Phyllostomidae;Phyllostomus;Phyllostomus;Phyllostomus discolor;Wagner;Phyllostomus discolor;(Wagner, 1843);bat;fro;NA;NA
+3121;-13;-38,3;Pachira;Pachira;aquatica;Aubl.;aquatica;Aubl.;Phyllostomidae;Artibeus;Artibeus;Artibeus liturato;Offers;Artibeus lituratus;(Olfers, 1818);bat;front;NA;NA
+3122;-13;-38,3;Pachira;Pachira;aquatica;Aubl.;aquatica;Aubl.;Phyllostomidae;Chiroderma;Chiroderma;Chiroderma doriae;Thomas, 1891;Chiroderma doriae;Thomas, 1891;bat;front;NA;NA
+3123;-13;-38,3;Pachira;Pachira;aquatica;Aubl.;aquatica;Aubl.;Phyllostomidae;Artibeus;Artibeus;Artibeus planirostris;(Spix, 1823);Artibeus planirostris;(Spix, 1823);bat;front;NA;NA
+3124;-13;-38,3;Pachira;Pachira;aquatica;Aubl.;aquatica;Aubl.;Phyllostomidae;Platyrrhinus;Platyrrhinus;Platyrrhinus lineatus;E. Geoffroy;Platyrrhinus lineatus;(É. Geoffroy, 1810);bat;front;NA;NA
+3125;-13;-38,3;Pachira;Pachira;aquatica;Aubl.;aquatica;Aubl.;Phyllostomidae;Sturnira;Sturnira;Sturnira lilium;E. Geoffroy;Sturnira lilium;(É. Geoffroy, 1810);bat;front;NA;NA
+243;-23,21;-47,79;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Atelinae;Brachyteles;Brachyteles;Brachyteles arachnoides;E Geoffroy;Brachyteles arachnoides;(É. Geoffroy, 1806);monkey;muz;p;0.11
+244;-23,21;-47,79;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Cebinae;Cebus;Sapajus;Sapajus apella;NA;Sapajus nigritus;(Linnaeus, 1758);monkey;muz;p;0.89
+808;-22,51;-42,26;Combretum;Combretum;fruticosum;(Loefl.) Stuntz;fruticosum;(Loefl.) Stuntz;;Leontopithecus;Leontopithecus;Leontopithecus rosalia;Linnaeus;Leontopithecus rosalia;(Linnaeus, 1766);monkey;NA;NA;NA
+809;-22,51;-42,26;Symphonia;Symphonia;globulifera;L.f.;globulifera;L.f.;;Leontopithecus;Leontopithecus;Leontopithecus rosalia;Linnaeus;Leontopithecus rosalia;(Linnaeus, 1766);monkey;NA;NA;NA
+843;-19,83;-41,83;Mabea;Mabea;fistulifera;Mart;fistulifera;Mart.;Atelinae;Brachyteles;Brachyteles;Brachyteles arachnoides;E Geoffroy;Brachyteles arachnoides;(É. Geoffroy, 1806);monkey;hea;p;NA
+843;-19,83;-41,83;Mabea;Mabea;fistulifera;Mart;fistulifera;Mart.;Atelinae;Brachyteles;Brachyteles;Brachyteles arachnoides;E Geoffroy;Brachyteles arachnoides;(É. Geoffroy, 1806);monkey;lim;p;NA
+843;-19,83;-41,83;Mabea;Mabea;fistulifera;Mart;fistulifera;Mart.;Atelinae;Brachyteles;Brachyteles;Brachyteles arachnoides;E Geoffroy;Brachyteles arachnoides;(É. Geoffroy, 1806);monkey;muz;p;NA
+845;-19,83;-41,83;Mabea;Mabea;fistulifera;Mart;fistulifera;Mart.;;Callithrix;Callithrix;Callithrix flaviceps;(Thomas, 1903);Callithrix flaviceps;(Thomas, 1903);monkey;hea;p;NA
+845;-19,83;-41,83;Mabea;Mabea;fistulifera;Mart;fistulifera;Mart.;;Callithrix;Callithrix;Callithrix flaviceps;(Thomas, 1903);Callithrix flaviceps;(Thomas, 1903);monkey;lim;p;NA
+845;-19,83;-41,83;Mabea;Mabea;fistulifera;Mart;fistulifera;Mart.;;Callithrix;Callithrix;Callithrix flaviceps;(Thomas, 1903);Callithrix flaviceps;(Thomas, 1903);monkey;muz;p;NA
+2110;-15,33;-39,08;Manilkara;Manilkara;sp.;na;sp.;Adans.;;Callithrix;Callithrix;Callithrix kuhli;(Wied-Neuwwied, 1826);Callithrix kuhlii;Coimbra-Filho, 1985;monkey;NA;NA;NA
+2111;-15,33;-39,08;Symphonia;Symphonia;globulifera;na;globulifera;L.f.;;Callithrix;Callithrix;Callithrix kuhli;(Wied-Neuwwied, 1826);Callithrix kuhlii;Coimbra-Filho, 1985;monkey;NA;l;NA
+2112;-15,33;-39,08;Symphonia;Symphonia;globulifera;na;globulifera;L.f.;;Leontopithecus;Leontopithecus;Leontopithecus chrysomelas;NA;Leontopithecus chrysomelas;(Kuhl, 1820);monkey;NA;l;NA
+3128;-19,72;-41,81;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;Atelinae;Brachyteles;Brachyteles;Brachyteles hypoxanthus;(Kuhl, 1820);Brachyteles hypoxanthus;(Kuhl, 1820);monkey;bil;NA;NA
+846;-19,83;-41,83;Mabea;Mabea;fistulifera;Mart;fistulifera;Mart.;;Caluromys;Caluromys;Caluromys philander;NA;Caluromys philander;(Linnaeus, 1758);opossum;NA;p;NA
+2740;-20,75;-42,85;Mabea;Mabea;fistulifera;Mart.;fistulifera;Mart.;;Didelphis;Didelphis;Didelphis marsupialis;Linnaeus;Didelphis marsupialis;Linnaeus, 1758;opossum;muz;p;NA
